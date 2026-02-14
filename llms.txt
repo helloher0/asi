@@ -1,4 +1,4 @@
-# ASI (Agent Skill Interface)
+ # ASI (Agent Skill Interface)
 
 > ASI is a behavioral contract for agentic systems that defines determinism-before-reasoning, strict passivity, explicit failure semantics, and auditable scope.
 
